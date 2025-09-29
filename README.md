@@ -1,4 +1,4 @@
-# Advanced Azure Infrastructure with Terraform - Hands-on Assignment by piyushsachdeva
+# Advanced Azure Infrastructure with Terraform - Hands-on Assignment by @piyushsachdeva
 
 
 ## Assignment Overview
